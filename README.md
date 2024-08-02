@@ -4,7 +4,6 @@
 
 ![About Me](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_0.png)
 
-## About Me
 
 - 👀 I’m interested in **Java**
 - 🌱 I’m currently learning **TypeScript**
@@ -15,7 +14,6 @@
 
 ![Skills & Tools](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_1.png)
 
-## Skills & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,14 +21,12 @@
 
 ![GitHub Stats](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_2.png)
 
-## My GitHub Stats
 
 ![GruenerNinja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GruenerNinja&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GruenerNinja&layout=compact&theme=dark)
 
 ![Connect with Me](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_3.png)
 
-## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
@@ -38,7 +34,6 @@
 
 ![Projects](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_4.png)
 
-## Projects
 
 Here are some of my favorite projects:
 
@@ -47,7 +42,6 @@ Here are some of my favorite projects:
 
 ![Hobbies & Interests](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_5.png)
 
-## Hobbies & Interests
 
 - 🎮 Gaming
 - 💻 Coding
