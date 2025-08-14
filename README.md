@@ -5,12 +5,11 @@
 ![About Me](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_0.png)
 
 
-- 👀 I’m interested in **Java**
-- 🌱 I’m currently learning **TypeScript**
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in **Java,Python,NodeJs,Docker,Sql,Angular,React**
+- 🌱 I’m currently learning **Nothngi**
+- 💞️ I’m looking to collaborate on Tunneling ports
 - 📫 How to reach me: [Discord](https://discord.gg/45sh5E7Dr8)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a **Mac OS** user
+- ⚡ Fun fact: I'm a **Unix** user
 
 ![Skills & Tools](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_1.png)
 
