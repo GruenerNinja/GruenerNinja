@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm @GruenerNinja! 
 
-![Welcome Banner](https://github.com/GruenerNinja/GruenerNinja/assets/banner.png)
 
 ![About Me](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_0.png)
 
